@@ -74,7 +74,7 @@
     background-color:rgb(54, 53, 53);
 }
 
-.menuNav a{
+.menuNav a button{
     text-decoration: none; 
     font-size: .9375rem;
     color: white;
